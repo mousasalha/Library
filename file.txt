@@ -1,0 +1,60 @@
+Title: 1
+ISBN-10: 1
+ISBN-13: 1
+Publisher: 1
+Edition: 1
+Hardcover: 1
+Year: 1
+Month: 1
+Paperback: 1
+
+Title: Introductory Circuit Analysis
+ISBN-10: 9780133923605
+ISBN-13: 978-0133923605
+Publisher: Pearsonn
+Edition: 10
+Hardcover: 1216 pages
+Year: 
+Month: 
+Paperback: 
+
+Title: Linux System Programming
+ISBN-10: 1449339530
+ISBN-13: 978-1449339531
+Publisher: O'Reilly Media
+Edition: 2
+Hardcover: 
+Year: 2013
+Month: 1
+Paperback: 456 pages
+
+Title: Linux System Programming
+ISBN-10: 1449339530
+ISBN-13: 978-1449339531
+Publisher: O'Reilly Media
+Edition: 2
+Hardcover: 
+Year: 2013
+Month: 1
+Paperback: 456 pages
+
+Title: Linux System Programming
+ISBN-10: 1449339530
+ISBN-13: 978-1449339531
+Publisher: O'Reilly Media
+Edition: 2
+Hardcover: 
+Year: 2013
+Month: 1
+Paperback: 456 pages
+
+Title: Linux System Programming
+ISBN-10: 1449339530
+ISBN-13: 978-1449339531
+Publisher: O'Reilly Media
+Edition: 2
+Hardcover: 
+Year: 2013
+Month: 1
+Paperback: 456 pages
+
